@@ -5,7 +5,7 @@
 
 | Topic | Solved |
 |-------|--------|
-| Arrays | 6 |
+| Arrays | 7 |
 
 ## ✅ Problems Solved
 
