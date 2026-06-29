@@ -20,7 +20,7 @@
 ### 🟡 Medium
 | # | Problem | Status |
 |---|---------|--------|
-| 1 | 3Sum | ⏳ Pending |
+| 1 | 3Sum | ✅ Done |
 | 2 | Container With Most Water | ⏳ Pending |
 | 3 | Longest Subarray with Sum K | ⏳ Pending |
 | 4 | Max Consecutive Ones III | ⏳ Pending |
