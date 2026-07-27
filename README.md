@@ -4,7 +4,7 @@
 ## 📊 Progress Tracker
 | Topic | Solved | Pending |
 |-------|--------|---------|
-| Arrays | 16 | 2 |
+| Arrays | 18 | 2 |
 | Strings | 6 | 0 |
 
 ## ✅ Problems Solved
@@ -34,7 +34,9 @@
 | 7 | Max Consecutive Ones III | ✅ Done |
 | 8 | Longest Subarray with Sum K (GFG) | ⏳ Pending |
 | 9 | Rotate Image | ⏳ Pending |
-| 10 | 2958. Length of Longest Subarray With at Most K Frequency | ✅ Done |
+| 10 | Length of Longest Subarray With at Most K Frequency | ✅ Done |
+| 11 | Find Minimum in Rotated Sorted Array | ✅ Done |
+| 12 | Search in Rotated Sorted Array | ✅ Done |
 
 #### 🔴 Hard
 | # | Problem | Status |
